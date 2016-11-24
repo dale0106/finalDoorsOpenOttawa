@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">final Doors Open Ottawa</string>
+    <string name="get_data">Get data</string>
+    <string name="action_about">About Page</string>
+    <string name="author" translatable="false">Cris DAlessio (dale0106)</string>
+    <string name="building_name_placeholder">Building name</string>
+</resources>
